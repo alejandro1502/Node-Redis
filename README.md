@@ -15,6 +15,10 @@ Este es un proyecto de prueba que implementa Redis para almacenamiento en caché
 2️⃣ Instalar dependencias
 
     npm install
+
+    npm i redis 
+
+    npm i axios
     
 
     
